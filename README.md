@@ -1,7 +1,7 @@
 # voxel_renderer
 
-![image](https://user-images.githubusercontent.com/105574500/183262741-34cc8f0d-6247-4d95-acfc-a9b7a8fa4778.png)
-![183262830-d33d4c3f-462d-456c-aa7e-2c2ca9caa0a6](https://user-images.githubusercontent.com/105574500/183262879-654e271e-33f8-413c-b679-5a89156c8842.png)
+<img src="https://user-images.githubusercontent.com/105574500/183262741-34cc8f0d-6247-4d95-acfc-a9b7a8fa4778.png" width="800px">
+<img src="https://user-images.githubusercontent.com/105574500/183262879-654e271e-33f8-413c-b679-5a89156c8842.png" width="800px">
 
 <h2>Features</h2>
 <p>
