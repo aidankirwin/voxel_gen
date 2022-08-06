@@ -19,15 +19,15 @@
 <p>
 <ol>
 <li>Clone the repo</li>
-<li>Set up the following libraries in the /Libraries/include and /Libraries/lib folders:
+<li>Create /Libraries/include and /Libraries/lib folders and import the following libraries to them:
 <ul>
-<li>GLFW</li>
-<li>GLAD</li>
-<li>GLM</li>
-<li>KHR</li>
+<li>GLFW - directories: /Libraries/include/GLFW for the .h files and /Libraries/lib for the .lib file</li>
+<li>GLAD - directory: /Libraries/include/GLAD</li>
+<li>GLM< - directory: /Libraries/include/GLM/li>
+<li>KHR - directory: /Libraries/include/KHR</li>
 </ul>
-<p>NOTE: The stb_image library is included in this repo.</p>
-<p>NOTE: Place glad.c in the main directory, and glad.h in the glad folder in /Libraries/include.</p>
+<p>The stb_image library is included in this repo.</p>
+<p>NOTE: Place glad.c in the main directory, and glad.h in /Libraries/include/glad.</p>
 </li>
 <li>Open the sln or proj file in Visual Studio Community/Enterprise/etc.</li>
 <li>Build.</li>
