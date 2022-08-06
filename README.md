@@ -15,7 +15,7 @@
 </p>
 
 <h2>Building</h2>
-<h3>Windows<h3>
+<h3>Windows</h3>
 <p>
 <ol>
 <li>Clone the repo</li>
