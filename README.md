@@ -23,7 +23,7 @@
 <ul>
 <li>GLFW - directories: /Libraries/include/GLFW for the .h files and /Libraries/lib for the .lib file</li>
 <li>GLAD - directory: /Libraries/include/GLAD</li>
-<li>GLM< - directory: /Libraries/include/GLM/li>
+<li>GLM - directory: /Libraries/include/GLM</li>
 <li>KHR - directory: /Libraries/include/KHR</li>
 </ul>
 <p>The stb_image library is included in this repo.</p>
